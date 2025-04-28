@@ -14,7 +14,7 @@ To write a program to prepare EMI calculator using function without return type 
 6.	Stop the program.
 
 ## PROGRAM
-```c
+```
 #include <stdio.h>
 #include <math.h> 
 
