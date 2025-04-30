@@ -243,7 +243,7 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
-```c
+```
 #include <stdio.h>
 
 int main() {
